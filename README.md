@@ -10,7 +10,7 @@
 
 - :zap: In my free time, I love to read about design patterns, software architecture and blockchain inovations.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mateo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-gali%C4%87-bb0b90200/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mateo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-gali%C4%87-bb0b90200/)
 
 ---
 
