@@ -1,9 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=mateogalic112&style=flat-square&color=blue" alt=""/>
 
-### Hi there :technologist:
-
----
-
 ## My name is Mateo, nice to meet you 👋 ##
 
 ### :ear: About Me :
