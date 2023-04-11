@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=mateogalic112&style=flat-square&color=blue" alt=""/>
 
-## I am Mateo, nice to meet you 👋 ##
+## Nice to see you 👋 ##
 
 ### :ear: About Me :
 
