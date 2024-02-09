@@ -2,7 +2,7 @@
 
 ## Nice to meet you 👋 ##
 
-#### :ear: About Me :
+### :ear: About Me :
 
 - 🧑‍💻 **Full-stack developer**
 
