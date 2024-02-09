@@ -4,11 +4,11 @@
 
 ### :ear: About Me :
 
-- :telescope: I’m working as a _**Full-stack web/blockchain developer**_.
+- 🧑‍💻 **Full-stack developer**
 
-- :fire: My main superpower is _**Javascript**_.
+- :fire: **Javascript**
 
-- :zap: In my free time, I love to read about design patterns, software architecture and blockchain inovations.
+- 🏁 **Consulting**: Software Development 🏛️ · Blockchain Development ⛓️
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Mateo-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-gali%C4%87-bb0b90200/)
 
