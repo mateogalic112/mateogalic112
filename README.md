@@ -6,6 +6,7 @@
 
 - 🧑‍💻 **Full Stack Developer**
 - 📝 B2B Contractor
+- 🏖️ [sezona.hr](https://sezona.hr) | 📬 [post-pilot.pro](https://post-pilot.pro)
 
 ---
 
