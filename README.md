@@ -4,11 +4,8 @@
 
 ### :ear: About Me :
 
-- 🧑‍💻 **Full-stack developer**
-
-- :fire: **Javascript**
-
-- 🏁 **Consulting**: Blockchain Development ⛓️
+- 🧑‍💻 **Full Stack Developer**
+- 📝 B2B Contractor
 
 ---
 
