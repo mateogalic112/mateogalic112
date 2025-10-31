@@ -2,7 +2,7 @@
 
 ## Nice to meet you 👋 ##
 
-### :ear: About Me :
+---
 
 - 🧑‍💻 **Full Stack Developer**
 - 📝 B2B Contractor
