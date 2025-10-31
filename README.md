@@ -2,8 +2,6 @@
 
 ## Nice to meet you 👋 ##
 
----
-
 - 🧑‍💻 **Full Stack Developer**
 - 📝 B2B Contractor
 - 🏠 [alpha-code.hr](https://alpha-code.hr) | 🏖️ [sezona.hr](https://sezona.hr) | 📬 [post-pilot.pro](https://post-pilot.pro)
