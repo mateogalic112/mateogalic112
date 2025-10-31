@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=mateogalic112&style=flat-square&color=blue" alt=""/>
 
-## Nice to meet you 👋 ##
+#### Nice to meet you 👋 ####
 
 - 🧑‍💻 **Full Stack Developer**
 - 📝 B2B Contractor
